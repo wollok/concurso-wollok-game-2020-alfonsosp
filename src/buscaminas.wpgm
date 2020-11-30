@@ -1,0 +1,9 @@
+import buscaminas.*
+import wollok.game.*
+
+program buscaminas {
+
+	buscaminas.iniciar()
+	game.start()
+
+} 

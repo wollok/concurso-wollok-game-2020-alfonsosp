@@ -1,24 +1,30 @@
-# ¡A jugar! 
+# Buscaminas
 
 ## Juego realizado con la biblioteca Wollok Game
-
-![reemplazar por una animación del juego](https://d33wubrfki0l68.cloudfront.net/1ba3cf64b23a4ac786d7432121abbd782794730c/ce83b/documentacion/conceptos/images/wollokcharacter.gif)
-
-### Resumen:
 
 
 ### Instrucciones:
 
+- Para descubrir celdas libres <Space> 
+- Para marcar (o desmarcar) con banderas donde hay minas <Enter>
+- Para desplazarse, usar las flechas del teclado.
+- Al terminar, para jugar nuevamente <Space>.
+
+_Partida ganada:_
+
+![](CapturaBuscaminas1.png)
+
+_Partida perdida:_
+
+![](CapturaBuscaminas2.png)
+
 
 ### Acerca de:
 
-Autores:
+Autores: Alfonso
 
-Docente/Curso/Institución:
+Versión de wollok: 2.0.2
 
-Versión de wollok:
+Fecha: Noviembre 2020
 
-Fecha:
-
-[Guía de herramientas](https://www.wollok.org/documentacion/conceptos/)
 
