@@ -21,7 +21,7 @@ _Partida perdida:_
 
 ### Acerca de:
 
-Autores: Alfonso
+Autores: Lucas S.
 
 Versión de wollok: 2.0.2
 
